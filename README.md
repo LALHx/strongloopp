@@ -1,10 +1,10 @@
 # dp-LTE
 基于SSM框架的轻量级开发框架，已经完成基于角色的操作权限管理，对前后端进行封装，可快速实现CRUD的开发。项目采用Maven多模块构建，方便按需求进行模块化扩展。
 ### 传送门
-- dp-LTE：[http://git.oschina.net/zhocuhenglin/dp-security/](http://git.oschina.net/zhocuhenglin/dp-security/)
-- dp-PRO：[http://git.oschina.net/zhocuhenglin/dp-pro](http://git.oschina.net/zhocuhenglin/dp-pro)
-- dp-GEN：[http://git.oschina.net/zhocuhenglin/dp-generator](http://git.oschina.net/zhocuhenglin/dp-generator)
-- dp-BOOT：[https://gitee.com/zhocuhenglin/dp-boot](https://gitee.com/zhocuhenglin/dp-BOOT)
+- dp-LTE：[https://gitee.com/dp_group/dp-security/](https://gitee.com/dp_group/dp-security/)
+- dp-PRO：[https://gitee.com/dp_group/dp-pro](https://gitee.com/dp_group/dp-pro)
+- dp-GEN：[https://gitee.com/dp_group/dp-generator](https://gitee.com/dp_group/dp-generator)
+- dp-BOOT：[https://gitee.com/dp_group/dp-boot](https://gitee.com/dp_group/dp-BOOT)
 - 项目文档（包含常见问题解答）：[http://dp-dev.mydoc.io/](http://dp-dev.mydoc.io/)
 （dp-PRO支持动态数据源切换、分布式session、多tab页标签菜单、代码生成器【生成代码也适用于dp-LTE】、自定义日志） 
 ### 项目拓展
@@ -48,7 +48,6 @@
 - dp-web：前端界面
 - dp-base：基础模块，目前包含行政区域、通用字典和系统日志功能模块
 ### 交流反馈
-- os-china仓库：[http://git.oschina.net/zhocuhenglin/dp-security/](http://git.oschina.net/zhocuhenglin/dp-security/)
 - 项目文档：[http://dp-dev.mydoc.io/](http://dp-dev.mydoc.io/)，二次开发手册参见3.4节
 - 交流QQ群：553461392
 - 如果对项目感兴趣，请Watch、Star项目，后期会不定时发布更新
